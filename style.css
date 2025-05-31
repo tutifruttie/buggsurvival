@@ -1,0 +1,11 @@
+img {
+    width: 5vw;
+}
+
+body{
+    height: 98vh;
+}
+
+#arrowleft {
+    transform: rotate(0,.5turn);
+}
